@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Buay Dak 👋
 
-<!--
-**buaypd/buaypd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BAS Software Development student at Green River College, graduating in summer 2027. I build web applications with JavaScript, React, Node.js, and Express, and I'm strengthening my Java and data structures skills.
 
-Here are some ideas to get you started:
+I'm seeking **2027 software engineering internships** where I can contribute, learn from experienced developers, and grow through practical work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **WinCo Bulk Finder** — A personal project inspired by my work at WinCo, helping shoppers find bulk products through a React interface and an Express API.
+- **The Bench** — A team-built sports gear storefront using Node.js, Express, and MySQL. I contributed to authentication pages, middleware, product filtering, database setup, and homepage design.
+- **Centroid Finder** — A Java project that identifies connected groups in images and calculates their sizes and centroids.
+
+### Technologies
+
+Java · JavaScript · React · Node.js · Express · MySQL · Git
+
+### Currently learning
+
+- React hooks, routing, and reusable components
+- Data structures and algorithms in Java
+- Backend development and API design
