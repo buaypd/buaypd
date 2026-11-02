@@ -12,7 +12,7 @@ I'm seeking **2027 software engineering internships** where I can contribute, le
 
 ### Technologies
 
-Java · JavaScript · React · Node.js · Express · MySQL · Git
+[![My Skills](https://skillicons.dev/icons?i=java,js,react,nodejs,express,mysql,git)](https://skillicons.dev)
 
 ### Currently learning
 
