@@ -12,6 +12,10 @@ I'm seeking **2027 software engineering internships** where I can contribute, le
 
 - **[Centroid Finder](https://github.com/grc-cohort-23/centroid-finder)** — A Java coursework project focused on identifying connected groups in images and calculating their sizes and centroids.
 
+- **[GBA Microjam](https://github.com/buaypd/microjam)** — Worked with a partner to develop a C++ minigame for a Game Boy Advance collection built by 20+ students. My contributions included background art, sprite design, gravity mechanics, and audio integration.
+
+- **[Game Deal Finder](https://github.com/akurfurst/CodeRelic-GameDealFinder)** — Collaborated with a team of three to build a video game deal web application using EJS, JavaScript, and CSS. I designed the submission form in Figma and implemented it with input validation, added discount and date logic to deal cards, built the About Us page, and standardized navbar styling.
+
 ### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,react,nodejs,express,mysql,git)](https://skillicons.dev)
