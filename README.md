@@ -21,3 +21,7 @@ I'm seeking **2027 software engineering internships** where I can contribute, le
 - React hooks, routing, and reusable components
 - Data structures and algorithms in Java
 - Backend development and API design
+
+### Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/buay-dak-112821238/)
